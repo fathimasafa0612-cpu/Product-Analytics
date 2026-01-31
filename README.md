@@ -9,7 +9,7 @@ A **Product Analytics dashboard** built with **Power BI** that integrates **SQL-
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Screenshot / Demo](#screenshot--demo)
+- [Screenshot ](#screenshot--demo)
 
 ---
 
@@ -40,7 +40,7 @@ The project combines **SQL-based data cleaning**, **interactive Power BI dashboa
 - **VS Code** – Development environment for SQL scripts
 ---
 
-## Screenshot / Demo
+## Screenshot
 ![App Preview Screenshot](first_page.png)
 ![App Preview Screenshot](conversion_rate_details.png)
 ![App Preview Screenshot](social_meadia_details.png)
