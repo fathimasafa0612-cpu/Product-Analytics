@@ -33,7 +33,7 @@ The project combines **SQL-based data cleaning**, **interactive Power BI dashboa
 
 ## Technologies Used
 
-- **DuckDB ** – Database Management System 
+- **DuckDB** – Database Management System 
 - **DBeaver** – Database Visualisation
 - **Power BI** – Dashboard development and product analytics visualization  
 - **DAX** – Time-intelligence calculations and KPI metrics
