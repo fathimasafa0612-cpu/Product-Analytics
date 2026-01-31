@@ -41,7 +41,7 @@ The project combines **SQL-based data cleaning**, **interactive Power BI dashboa
 ---
 
 ## Screenshot
-![executive overview.png](executive overview.png)
+![executive overview.png](Product_Adoption_and_Usage.png)
 ![App Preview Screenshot](conversion_rate_details.png)
 ![App Preview Screenshot](social_meadia_details.png)
 ![App Preview Screenshot](customer_review_details.png)
