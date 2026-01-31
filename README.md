@@ -57,5 +57,5 @@ The project combines **SQL-based data cleaning**, **interactive Power BI dashboa
 ## Author
 
 **Fathima Safa**  
- Data Product Analyst
+ Data Analyst
 
