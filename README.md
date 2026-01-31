@@ -9,7 +9,7 @@ A **Product Analytics dashboard** built with **Power BI** that integrates **SQL-
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Screenshot ](#screenshot--demo)
+- [Screenshot ](#screenshot)
 
 ---
 
