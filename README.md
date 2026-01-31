@@ -1,7 +1,7 @@
 
 # Product Analytics Dashboard
 
-A **Product Analytics dashboard** built with **Power BI** that integrates **SQL-cleaned data (DuckDB)** and **DAX time-intelligence metrics** to analyze **user activation, product adoption, engagement trends, and market-level events**. Designed to support **data-driven product and growth decisions**.
+A **Product Analytics dashboard** built with **Power BI** that integrates **SQL-cleaned data** and **DAX time-intelligence metrics** to analyze **user activation, product adoption, engagement trends, and market-level events**. Designed to support **data-driven product and growth decisions**.
 
 ---
 
